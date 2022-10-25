@@ -37,3 +37,6 @@ p{
 	color: hsl(220, 15%, 55%);
 	text-align: center;
 }
+.attribution{
+	font-size: 11px;
+}
